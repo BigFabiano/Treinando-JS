@@ -46,3 +46,8 @@ input {
 p {
   margin-left: 20px;
 }
+#spam {
+  font-size: 24px;
+  color: tomato;
+  font-weight: bold;
+}

@@ -19,7 +19,7 @@ function calculo(){
       let n1 = parseInt(document.querySelector('#n1').value);
       let n2 = parseInt(document.querySelector('#n2').value);
       
-      document.querySelector('#res').value = n1 + n2;
+      document.querySelector('#spam').innerHTML = n1 + n2;
      
 }
 function fundo(){
